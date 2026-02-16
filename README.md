@@ -11,9 +11,9 @@
 
 * **0-1 Product Development**
   + [DDoS Protection Product Launch](https://www.fastly.com/products/ddos-mitigation) - $1M+ revenue milestone, 228% QoQ growth
-  + [ClientSide Protection](https://www.fastly.com/products/magecart-protection) - Enterprise browser security solution
+  + [ClientSide Protection](https://www.fastly.com/products/fastly-client-side-protection) - Enterprise browser security solution
   + [API Discovery](https://www.fastly.com/blog/api-discovery) - Automated API inventory and security assessment
-  + [Log Explorer & Insights](https://www.fastly.com/products/observability) - Real-time observability platform
+  + [Log Explorer & Insights](https://www.fastly.com/products/logexplorer-and-insights) - Real-time observability platform
 
 * **Enterprise Platform Migration & Modernization**
   + [AWS Cloud Migration for Healthcare Benefits Platform](https://github.com/ashakisorrell) - 250K+ members, $100K annual cost savings
