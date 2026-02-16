@@ -1,4 +1,4 @@
-# Hi, I'm Ashaki! [Product Leader](https://linkedin.com/in/ashakisorrell), [Enterprise Platform Specialist](https://www.fastly.com), [Program Management Leader]([https://www.fastly.com](https://pmtrainingacademy.org/)
+# Hi, I'm Ashaki! [Product Leader](https://linkedin.com/in/ashakisorrell), [Enterprise Platform Specialist](https://www.fastly.com), [Program Management Leader](https://pmtrainingacademy.org/)
 
 ## 🚀 Product Leadership & Strategy
 
