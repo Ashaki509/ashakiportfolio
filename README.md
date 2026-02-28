@@ -26,7 +26,8 @@ I lead the Global TPM Community at Fastly — **30+ program managers globally** 
 
 - 💳 **$7B in annual transactions** at 99.99% uptime — Michigan First Credit Union's $10M digital banking modernization: 170K+ members, 90% retention through disciplined platform change management.
 
-  ##🤖 AI Work
+  
+  ## 🤖 AI Work
 
 - 🧠 Developed AI transformation strategy for Fastly's Security product line → 17% enterprise MRR growth
 - ⚙️ Built AI governance frameworks across 10 cross-functional teams at Fastly
@@ -35,4 +36,7 @@ I lead the Global TPM Community at Fastly — **30+ program managers globally** 
 - 🏥 Deployed AI-enabled cloud optimization at Michigan Teamsters → 30% cost reduction
 - 🔐 Certified: AI Security Foundation (A/AISF) — AKYLADE, 2025
 
-🤝 Building large-scale program delivery infrastructure? Scaling a PMO? Modernizing technical execution? Let's connect — ashaki509@gmail.com
+
+
+🤝 Building large-scale program delivery infrastructure? Scaling a PMO? Modernizing technical execution? 
+Let's connect — ashaki509@gmail.com
