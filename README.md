@@ -26,4 +26,4 @@ I lead the Global TPM Community at Fastly — **30+ program managers globally** 
 
 - 💳 **$7B in annual transactions** at 99.99% uptime — Michigan First Credit Union's $10M digital banking modernization: 170K+ members, 90% retention through disciplined platform change management.
 
-- 🤝 Building large-scale program delivery infrastructure? Scaling a PMO? Modernizing technical execution? Let's connect — ashaki509@gmail.com · (313) 523-0902
+- 🤝 Building large-scale program delivery infrastructure? Scaling a PMO? Modernizing technical execution? Let's connect — ashaki509@gmail.com
