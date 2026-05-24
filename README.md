@@ -37,7 +37,3 @@ I lead the Global TPM Community at Fastly — **30+ program managers globally** 
 - 🔐 Certified: AI Security Foundation (A/AISF) — AKYLADE, 2025
 
 🤝 Building large-scale program delivery infrastructure? Scaling a PMO? Modernizing technical execution? Let's connect — ashaki509@gmail.com
-
-
-🤝 Building large-scale program delivery infrastructure? Scaling a PMO? Modernizing technical execution? 
-Let's connect — ashaki509@gmail.com
